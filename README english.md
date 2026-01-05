@@ -25,9 +25,9 @@ A Python-based tool for automatic batch file renaming with a graphical user inte
 
 -datetime – Timestamped report generation
 
-    📄 License
--This project is released under the MIT License.
 
+    This project is released under the MIT License.
+---
     Developer
 -Name: [Nima]
 
