@@ -1,3 +1,4 @@
+# Rename machine
 A Python-based tool for automatic batch file renaming with a graphical user interface.
 
     ✨ Features
